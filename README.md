@@ -37,12 +37,12 @@ Abra o aplicativo Steam.
 Vá até a sua Biblioteca de jogos.
 
 Clique com o botão direito do mouse sobre Dota 2 e selecione “Propriedades”.
+<img width="443" height="193" alt="image" src="https://github.com/user-attachments/assets/3f9160ec-02a4-4250-ab37-73bf5046d7fe" />
 
 Na aba “Geral”, localize o campo “Opções de inicialização”.
 
 No campo, digite o seguinte comando:
 
 -language brazilian
-
-Esse comando faz com que o jogo utilize o MOD que está instalado sempre que o jogo for iniciado.
-<img width="1066" height="414" alt="image" src="https://github.com/user-attachments/assets/24571da0-e0ad-400e-89fa-9e20e85d33bb" />
+<img width="1208" height="861" alt="image" src="https://github.com/user-attachments/assets/7dd9a7ee-7e51-476e-8938-c86dd5d357e5" />
+## Esse comando faz com que o jogo utilize o MOD que está instalado sempre que o jogo for iniciado.
