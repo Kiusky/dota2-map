@@ -45,3 +45,4 @@ No campo, digite o seguinte comando:
 -language brazilian
 
 Esse comando faz com que o jogo utilize o MOD que está instalado sempre que o jogo for iniciado.
+<img width="1066" height="414" alt="image" src="https://github.com/user-attachments/assets/24571da0-e0ad-400e-89fa-9e20e85d33bb" />
