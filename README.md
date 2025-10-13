@@ -1,4 +1,4 @@
-# 🕹️ MOD: Mapa Dota 2 PT/BR
+# 🕹️ MOD: Mapa Dota 2 - PT/BR
  
 
 👉 This Plugin minimizes the hfs terminal to the Windows system tray with RBtray.
