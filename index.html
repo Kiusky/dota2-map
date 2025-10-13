@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:title" content="ᚪ𝑒𝑒𝒹𝑒𝓇 𝒪𝓌𝓁">
+<meta property="og:description" content="Somos uma comunidade online na Steam e Discord, reunindo jogadores para partidas em grupo. Oferecemos anúncios de jogos grátis, ofertas imperdiveis e fórum para discussões e soluções. Junte-se a nós para encontrar companheiros de equipe e aproveitar a diversão dos jogos em grupo!">
+<meta property="og:image" content="https://feederowl.com/img/feederowl/logo%20database.gif">
+<meta property="og:url" content="https://www.feederowl.com/">
+<title>ᚪ𝑒𝑒𝒹𝑒𝓇 𝒪𝓌𝓁</title>
+<link rel="icon" type="image/x-icon" href="img\feederowl\icone.ico">
+<style>
+        body {
+            background-image: url('img/feederowl/redlogo.png');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+    </style>
+    <script>
+        function redirecionarParaSteam() {
+            var steamURL = "steam://openurl/https://steamcommunity.com/groups/feederowl/announcements/listing";
+            
+            window.location.href = steamURL;
+            
+            setTimeout(function() {
+                window.close();
+            }, 5000);
+        }
+
+        window.onload = function() {
+            redirecionarParaSteam();
+        };
+    </script>
+</head>
+<body>
+</body>
+</html>
