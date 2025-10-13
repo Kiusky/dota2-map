@@ -44,5 +44,6 @@ Na aba “Geral”, localize o campo “Opções de inicialização”.
 No campo, digite o seguinte comando:
 
 -language brazilian
-<img width="1208" height="861" alt="image" src="https://github.com/user-attachments/assets/7dd9a7ee-7e51-476e-8938-c86dd5d357e5" />
+<img width="1205" height="861" alt="image" src="https://github.com/user-attachments/assets/ff657f6a-223d-4f5b-ab44-88fee86d571d" />
+
 ## Esse comando faz com que o jogo utilize o MOD que está instalado sempre que o jogo for iniciado.
