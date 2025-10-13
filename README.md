@@ -4,7 +4,8 @@
 👉 This Plugin minimizes the hfs terminal to the Windows system tray with RBtray.
 
  
-<img width="523" height="669" alt="image" src="https://github.com/user-attachments/assets/5a0e1d4a-90bd-4c5a-8791-1241855cabf5" />
+<img width="1866" height="1068" alt="image" src="https://github.com/user-attachments/assets/142fec27-cbef-4944-83b2-a100cd1195e1" />
+
 
  
 ## Installation
