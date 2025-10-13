@@ -9,7 +9,7 @@
 
 
  
-# Installation
+# COMO INSTALAR ?
 ## 1. Verifique a instalação do Dota 2
 
 Antes de começar, certifique-se de que o Dota 2 está instalado corretamente no seu computador.
@@ -18,7 +18,7 @@ O caminho padrão de instalação é:
 
 C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota_brazilian\maps
 
-2. Instalações em outras unidades
+## 2. Instalações em outras unidades
 
 Caso o Dota 2 esteja instalado em outra unidade de armazenamento (como D:, E:, F: etc.), utilize o mesmo caminho acima, alterando apenas a letra da unidade.
 
@@ -27,7 +27,7 @@ Exemplos:
 D:\SteamLibrary\steamapps\common\dota 2 beta\game\dota_brazilian\maps
 E:\SteamLibrary\steamapps\common\dota 2 beta\game\dota_brazilian\maps
 
-3. Configurando o jogo para carregar o MOD
+## 3. Configurando o jogo para carregar o MOD
 
 Para que o Dota 2 carregue automaticamente o MOD sempre que for iniciado, siga os passos abaixo:
 
