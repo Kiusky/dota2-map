@@ -9,8 +9,8 @@
 
 
  
-## Installation
-# 1. Verifique a instalação do Dota 2
+# Installation
+## 1. Verifique a instalação do Dota 2
 
 Antes de começar, certifique-se de que o Dota 2 está instalado corretamente no seu computador.
 
