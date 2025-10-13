@@ -1,13 +1,90 @@
-[
-  {"nome": "Abismo Esmeralda", "arquivo": "abismo_esmeralda.zip"},
-  {"nome": "Deserto", "arquivo": "deserto.zip"},
-  {"nome": "Império Coberto", "arquivo": "imperio_coberto.zip"},
-  {"nome": "Inverno", "arquivo": "inverno.zip"},
-  {"nome": "Jardins Imortais", "arquivo": "jardins_imortais.zip"},
-  {"nome": "Limites do Recife", "arquivo": "limites_do_recife.zip"},
-  {"nome": "Nova Jornada do Rei", "arquivo": "nova_jornada.zip"},
-  {"nome": "Outono", "arquivo": "outono.zip"},
-  {"nome": "Primavera", "arquivo": "primavera.zip"},
-  {"nome": "Santuários da Divindade", "arquivo": "santuario_divindade.zip"},
-  {"nome": "Verão", "arquivo": "verao.zip"}
-]
+{
+  "abismo-esmeralda": {
+    "name": "Abismo Esmeralda",
+    "url": "https://github.com/seu_usuario/seu_repositorio/raw/main/abismo-esmeralda/mod.zip",
+    "description": "Terreno Abismo Esmeralda - Um verde profundo e misterioso",
+    "folder": "abismo-esmeralda",
+    "files": ["maps/"],
+    "version": "1.0"
+  },
+  "deserto": {
+    "name": "Deserto",
+    "url": "https://github.com/seu_usuario/seu_repositorio/raw/main/deserto/mod.zip",
+    "description": "Terreno Deserto - Areias movediças e calor intenso",
+    "folder": "deserto",
+    "files": ["maps/"],
+    "version": "1.0"
+  },
+  "imperio-coberto": {
+    "name": "Império Coberto",
+    "url": "https://github.com/seu_usuario/seu_repositorio/raw/main/imperio-coberto/mod.zip",
+    "description": "Terreno Império Coberto - Arquitetura antiga e coberta",
+    "folder": "imperio-coberto",
+    "files": ["maps/"],
+    "version": "1.0"
+  },
+  "inverno": {
+    "name": "Inverno",
+    "url": "https://github.com/seu_usuario/seu_repositorio/raw/main/inverno/mod.zip",
+    "description": "Terreno Inverno - Neve e gelo por toda parte",
+    "folder": "inverno",
+    "files": ["maps/"],
+    "version": "1.0"
+  },
+  "jardins-imortais": {
+    "name": "Jardins Imortais",
+    "url": "https://github.com/seu_usuario/seu_repositorio/raw/main/jardins-imortais/mod.zip",
+    "description": "Terreno Jardins Imortais - Beleza eterna e natureza",
+    "folder": "jardins-imortais",
+    "files": ["maps/"],
+    "version": "1.0"
+  },
+  "limites-do-recife": {
+    "name": "Limites do Recife",
+    "url": "https://github.com/seu_usuario/seu_repositorio/raw/main/limites-do-recife/mod.zip",
+    "description": "Terreno Limites do Recife - Águas cristalinas e vida marinha",
+    "folder": "limites-do-recife",
+    "files": ["maps/"],
+    "version": "1.0"
+  },
+  "nova-jornada-do-rei": {
+    "name": "Nova Jornada do Rei",
+    "url": "https://github.com/seu_usuario/seu_repositorio/raw/main/nova-jornada-do-rei/mod.zip",
+    "description": "Terreno Nova Jornada do Rei - Reino majestoso e épico",
+    "folder": "nova-jornada-do-rei",
+    "files": ["maps/"],
+    "version": "1.0"
+  },
+  "outono": {
+    "name": "Outono",
+    "url": "https://github.com/seu_usuario/seu_repositorio/raw/main/outono/mod.zip",
+    "description": "Terreno Outono - Folhas caídas e cores quentes",
+    "folder": "outono",
+    "files": ["maps/"],
+    "version": "1.0"
+  },
+  "primavera": {
+    "name": "Primavera",
+    "url": "https://github.com/seu_usuario/seu_repositorio/raw/main/primavera/mod.zip",
+    "description": "Terreno Primavera - Flores e renovação",
+    "folder": "primavera",
+    "files": ["maps/"],
+    "version": "1.0"
+  },
+  "santuarios-da-divindade": {
+    "name": "Santuários da Divindade",
+    "url": "https://github.com/seu_usuario/seu_repositorio/raw/main/santuarios-da-divindade/mod.zip",
+    "description": "Terreno Santuários da Divindade - Lugares sagrados e divinos",
+    "folder": "santuarios-da-divindade",
+    "files": ["maps/"],
+    "version": "1.0"
+  },
+  "verao": {
+    "name": "Verão",
+    "url": "https://github.com/seu_usuario/seu_repositorio/raw/main/verao/mod.zip",
+    "description": "Terreno Verão - Sol, praia e diversão",
+    "folder": "verao",
+    "files": ["maps/"],
+    "version": "1.0"
+  }
+}
