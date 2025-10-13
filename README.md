@@ -1,7 +1,7 @@
 # 🕹️ MOD: Mapa Dota 2 - PT/BR
  
 
-👉 This Plugin minimizes the hfs terminal to the Windows system tray with RBtray.
+👉 MOD DE MAPAS DE DOTA 2 / COM COMANDO PARA VERIFICAR ATUALIZAÇÃO DE PATCH DO JOGO !
 
  
 <img width="1862" height="1068" alt="image" src="https://github.com/user-attachments/assets/e936f5a9-6c8c-4046-92b5-ae68339cbdf7" />
