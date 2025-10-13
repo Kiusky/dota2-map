@@ -25,6 +25,7 @@ Caso o Dota 2 esteja instalado em outra unidade de armazenamento (como D:, E:, F
 Exemplos:
 
 D:\SteamLibrary\steamapps\common\dota 2 beta\game\dota_brazilian\maps
+
 E:\SteamLibrary\steamapps\common\dota 2 beta\game\dota_brazilian\maps
 
 ## 3. Configurando o jogo para carregar o MOD
